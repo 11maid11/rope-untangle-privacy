@@ -6,7 +6,7 @@ This policy covers the mobile game **Rope Untangle** (Android package `com.mrrak
 
 ## Summary
 
-The game has no accounts and no sign-in, and the developer does not collect or receive your personal information. The game shows optional rewarded ads through Google AdMob and offers optional purchases through Google Play. Those two services process some data, described below.
+The game has no accounts and no sign-in, and the developer does not collect or receive your personal information. The game shows ads through Google AdMob and offers optional purchases through Google Play. Those two services process some data, described below.
 
 ## Information the game stores on your device
 
@@ -20,7 +20,7 @@ This information is not sent to the developer. It is removed when you clear the 
 
 ## Advertising
 
-The game shows ads only when you choose to watch one in exchange for coins. Ads are provided by **Google AdMob**. To deliver and measure ads, and to prevent fraud, AdMob may collect and process:
+The game shows two kinds of ads: rewarded ads, which play only when you choose to watch one in exchange for coins or a hint, and full-screen ads that may appear between levels. Buying any coin pack removes the ads between levels. Ads are provided by **Google AdMob**. To deliver and measure ads, and to prevent fraud, AdMob may collect and process:
 
 - the advertising ID of your device,
 - your IP address, from which an approximate location (country or city) may be derived,
